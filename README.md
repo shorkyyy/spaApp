@@ -1,7 +1,4 @@
-Certainly! Here's the updated README.md file for your SPA app with the provided GitHub link:
-
-```markdown
-# 🚀 Your SPA App Name
+<h1 align="center">Hi! Relax</h1>
 
 <p align="center">
   <a href="https://github.com/shorkyyy/spaApp/blob/main/LICENSE"><img src="https://img.shields.io/github/license/shorkyyy/spaApp" alt="License"></a>
@@ -9,7 +6,7 @@ Certainly! Here's the updated README.md file for your SPA app with the provided 
   <a href="https://github.com/shorkyyy/spaApp/stargazers"><img src="https://img.shields.io/github/stars/shorkyyy/spaApp" alt="Stars"></a>
 </p>
 
-**Your SPA App Name** is a Single Page Application (SPA) 📱 built with [Framework/Library] that [brief description of the purpose].
+**Hi! Relax** is a Single Page Application (SPA) 📱 built with [Framework/Library] that [brief description of the purpose].
 
 ## 📌 Table of Contents
 
